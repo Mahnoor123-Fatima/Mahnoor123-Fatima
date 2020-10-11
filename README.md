@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+Meticulous and motivated undergraduate student🏫 , indulged in python programming 🐍, field of interest is Computer Vision | Deep Learning. 
+My BTech is focused in Computer Science and I am an open-source enthisiast❤️.
 
 <!--
 **Mahnoor123-Fatima/Mahnoor123-Fatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
