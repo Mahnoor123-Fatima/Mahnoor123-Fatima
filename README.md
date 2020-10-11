@@ -40,12 +40,22 @@ Pursuing bachelor's degree in Computer Science and I am an open-source enthisias
 </div>
 
 <div align="center">
-  ### ⚡ Fun fact about me: ✨ I love coding+eating+travelling✨ 
- 
- <h3>Connect with me!</h3>
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mahnoor-fatima-280abb1a3/)
- [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/SyedaMahnoorF12)
-
+  <h3>⚡ Fun fact about me: ✨ I love coding+eating+travelling✨</h3>
 </div>
+
+ <h3>👥 Connect With Me:</h3>
+ 
+ [<img align="left" alt="Mahnoor-Fatima | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ [<img align="left" alt="Mahnoor-Fatima | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+ 
+ 
+ [linkedin]: https://www.linkedin.com/in/mahnoor-fatima-280abb1a3/
+ [twitter]: https://twitter.com/SyedaMahnoorF12
+
+ 
+ 
+
+
 
 
