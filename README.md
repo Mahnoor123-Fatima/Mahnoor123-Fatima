@@ -10,7 +10,7 @@ Pursuing bachelor's degree in Computer Science and I am an open-source enthisias
 
 
 
-- 🔭 I’m current working on Python Programming.
+- 🔭 I’m currently working on Python Programming.
 
 - 🌱 I’m currently learning Applied ML and Deep Learning
 
