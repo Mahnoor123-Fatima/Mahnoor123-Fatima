@@ -43,10 +43,10 @@ Pursuing bachelor's degree in Computer Science and I am an open-source enthisias
   <h3>⚡ Fun fact about me: ✨ I love coding+eating+travelling✨</h3>
 </div>
 
- <h3>👥 Connect With Me:</h3>
+ <h3>Connect With Me:</h3>
  
- [<img align="left" alt="Mahnoor-Fatima | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- [<img align="left" alt="Mahnoor-Fatima | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+ - [<img align="left" alt="Mahnoor-Fatima | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img align="left" alt="Mahnoor-Fatima | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
  
  
