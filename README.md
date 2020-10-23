@@ -39,6 +39,11 @@ Pursuing bachelor's degree in Computer Science and I am an open-source enthisias
 
 </div>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahnoor123-Fatima&layout=compact" alt="Mahnoor123-Fatima" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahnoor123-Fatima&show_icons=true&show-private=true" alt="Mahnoor123-Fatima" /></p>
+
+
 <div align="center">
   <h3>⚡ Fun fact about me: ✨ I love coding+eating+travelling✨</h3>
 </div>
