@@ -3,6 +3,7 @@
 Meticulous and motivated undergraduate student🏫 , indulged in python programming 🐍, field of interest is Computer Vision | Deep Learning. 
 Pursuing bachelor's degree in Computer Science and I am an open-source enthisiast❤️.
 <img align="right" img src="https://raw.githubusercontent.com/Mahnoor123-Fatima/Mahnoor123-Fatima/main/200w.webp" width="210px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahnoor123-Fatima&label=Profile%20views&color=0e75b6&style=flat" alt="Mahnoor123-Fatima" /> </p>
 
 
 
