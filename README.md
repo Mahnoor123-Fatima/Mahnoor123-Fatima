@@ -21,6 +21,9 @@ Pursuing bachelor's degree in Computer Science and I am an open-source enthisias
 
 - 👯 I’m looking to collaborate with other developers.
 
+- 📫 How to reach me: rohafatima@gmail.com;
+
+
 <div align="center">
   
    <h3>Languages and Framework:</h3>
